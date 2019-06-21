@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to implement a popup Edit Form for GridView in Batch Edit mode
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t286169/)**
+<!-- run online end -->
 
 
 <p>In this example, ASPxGridView is used in <a href="https://documentation.devexpress.com/#AspNet/CustomDocument16443">Batch Edit mode</a>. Clicking editable cells or the add new row button displays a custom <a href="https://documentation.devexpress.com/#AspNet/CustomDocument3582">Popup</a> Edit Form.</p>
