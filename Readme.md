@@ -9,7 +9,7 @@ This example demonstrates how to use a popup control to edit grid data in batch 
 
 ## Overview
 
-Follow the steps below:
+Follow the steps below to implement a popup edit form in batch mode:
 
 1. Create the [Grid View](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView) control and set its [Mode](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridViewEditingSettings.Mode) property to `Batch`.
 
@@ -21,7 +21,7 @@ Follow the steps below:
     </dx:ASPxGridView>
     ```
 
-2. Create a popup control and fill its content with child controls.
+2. Create a popup control and add child controls.
 
     ```aspx
     <dx:ASPxPopupControl ID="ASPxPopupControl1" runat="server" ClientInstanceName="popup" ... >
